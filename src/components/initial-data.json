@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Fruits",
+      "items": [
+        { "id": "1", "name": "Pommes", "quantity": 10 },
+        { "id": "2", "name": "Bananes", "quantity": 6 }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Légumes",
+      "items": [
+        { "id": "1", "name": "Carottes", "quantity": 8 },
+        { "id": "2", "name": "Tomates", "quantity": 12 }
+      ]
+    }
+  ]
+}
